@@ -1,6 +1,6 @@
 //6x4 seran las salas del cine. 
 //6 butacas y 4 filas
-
+// docentes: Daniel Benitez, Cristian Corsaro
 //Nombre: Ramirez, Franco Nicolas - Div 325 T.N
 
 
